@@ -1,0 +1,45 @@
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\bin\Debug\MIRScadaWriteXML.exe.config
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\bin\Debug\MIRScadaWriteXML.exe
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\bin\Debug\MIRScadaWriteXML.pdb
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.csprojResolveAssemblyReference.cache
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MainWindow.baml
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MainWindow.g.cs
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\App.g.cs
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML_MarkupCompile.cache
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.g.resources
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.Properties.Resources.resources
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.csproj.GenerateResource.Cache
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.exe
+c:\users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.pdb
+C:\Users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\Info.baml
+C:\Users\mitin\documents\visual studio 2013\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\Info.g.cs
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\bin\Debug\MIRScadaWriteXML.exe.config
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.exe
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.pdb
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\bin\Debug\MIRScadaWriteXML.exe
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\bin\Debug\MIRScadaWriteXML.pdb
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MainWindow.baml
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\Info.baml
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MainWindow.g.cs
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\Info.g.cs
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\App.g.cs
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML_MarkupCompile.cache
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.g.resources
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.Properties.Resources.resources
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.csproj.GenerateResource.Cache
+C:\Users\mitin\Documents\Visual Studio 2015\Projects\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.csprojResolveAssemblyReference.cache
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\bin\Debug\MIRScadaWriteXML.exe.config
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.exe
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.pdb
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\bin\Debug\MIRScadaWriteXML.exe
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\bin\Debug\MIRScadaWriteXML.pdb
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.csprojResolveAssemblyReference.cache
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MainWindow.baml
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\Info.baml
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MainWindow.g.cs
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\Info.g.cs
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\App.g.cs
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML_MarkupCompile.cache
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.g.resources
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.Properties.Resources.resources
+C:\Users\mitin\Source\Repos\VS2015\MIRScadaWriteXML\MIRScadaWriteXML\obj\Debug\MIRScadaWriteXML.csproj.GenerateResource.Cache
